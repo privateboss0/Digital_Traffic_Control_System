@@ -1,5 +1,5 @@
 # Digital Traffic_Control_System
-In respect with the modernization and digitalization of the traffic control infrastructure in 2023, I noticed the traffic control system is still using electronic circuits, so I designed and built multiple traffic control systems utilizing python code to allow free, organized and safe movement of humans, drivers and motor vehicles. They are as follows:
+In respect with the modernization and digitalization of the traffic control infrastructure in 2023, I noticed the traffic control system is still using electronic circuits, so I designed and built multiple traffic control systems utilizing python code to allow free, organized and safe movement of humans, drivers and motor vehicles in an intelligent manner. They are as follows:
 
 -Parking Garage Traffic Control System: A single light box, alternating between Red(STOP) and Green(GO) lights to allow safe and organized movement of cars and drivers in an automated parking garage.
 
