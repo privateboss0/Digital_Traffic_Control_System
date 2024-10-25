@@ -11,4 +11,4 @@ In respect with the modernization and digitalization of the traffic control infr
 
 -Decentralized Sync/Asyc single Traffic_control: A triple light box for alternating between Red(STOP), Yellow/Amber(SLOW), and Green(GO) to allow safe and organized movement for vehicles. The General traffic control system is also capable of (Single, Synchronous or Asynchronous) decentralized control for a one, two, three or multiple lane road, by simply running various instances of the code and adjusting the timers.
 
-This can be further expanded using a Traffic Management Algorithm that integrates with this Traffic Control Algorithm using API's to adjust the timing setting of the control lights depending on the road usage congestion.
+This can be further expanded using a Traffic Management Algorithm (Data Science) that integrates with this Traffic Control Algorithm using API's to adjust the timing setting of the control lights depending on the road usage congestion.
